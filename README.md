@@ -15,3 +15,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=SathvikHegde)]
+
