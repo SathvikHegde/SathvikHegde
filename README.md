@@ -16,5 +16,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SathvikHegde&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHegde)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHegde&theme=tokyonight)
 
