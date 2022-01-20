@@ -21,3 +21,5 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHegde&theme=tokyonight"/>
 </a>
+
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=SathvikHegde&theme=react-dark)
